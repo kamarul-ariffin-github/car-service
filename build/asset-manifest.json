@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.5b631aac.js",
-    "static/js/787.0ca4bb88.chunk.js": "/static/js/787.0ca4bb88.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.5b631aac.js.map": "/static/js/main.5b631aac.js.map",
-    "787.0ca4bb88.chunk.js.map": "/static/js/787.0ca4bb88.chunk.js.map"
+    "main.css": "/car-service/static/css/main.073c9b0a.css",
+    "main.js": "/car-service/static/js/main.09d2897a.js",
+    "static/js/787.0ca4bb88.chunk.js": "/car-service/static/js/787.0ca4bb88.chunk.js",
+    "static/media/logo.svg": "/car-service/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/car-service/index.html",
+    "main.073c9b0a.css.map": "/car-service/static/css/main.073c9b0a.css.map",
+    "main.09d2897a.js.map": "/car-service/static/js/main.09d2897a.js.map",
+    "787.0ca4bb88.chunk.js.map": "/car-service/static/js/787.0ca4bb88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5b631aac.js"
+    "static/js/main.09d2897a.js"
   ]
 }
